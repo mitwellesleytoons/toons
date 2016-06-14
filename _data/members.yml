@@ -1,0 +1,111 @@
+# Example:
+# - name: Edwin
+#   status: active/alum
+#   color: red/orange/yellow/green/blue/purple
+#   image: edwinzhang16.jpg
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: red
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: orange
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: yellow
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: blue
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: purple
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: green
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: red
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+
+- name: Edwin
+  fullname: Edwin Zhang
+  status: active
+  school: MIT
+  class: 2016
+  jingleClass: 2012
+  major: Computer Science
+  color: red
+  image: edwinzhang16.jpg
+  toon: banana.jpg
+  voice: Bass
+  bio: Does stuff
+

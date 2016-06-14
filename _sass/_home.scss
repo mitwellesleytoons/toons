@@ -1,0 +1,146 @@
+
+.hidden.menu {
+  display: none;
+}
+
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+  // background: $background-color !important;
+  background: url("/assets/images/home-0.jpeg") !important;
+  background-size: cover !important;
+
+  border-bottom-style: solid !important;
+  border-bottom-width: 12px !important;
+
+  animation: rainbow-border 24s infinite;
+}
+
+@keyframes rainbow-border {
+  0%     { border-color: $brand-red; }
+  20%    { border-color: $brand-orange; }
+  40%    { border-color: $brand-yellow; }
+  60%    { border-color: $brand-green; }
+  80%   { border-color: $brand-blue; }
+  100%   { border-color: $brand-purple; }
+}
+
+.masthead .logo.item img {
+  margin-right: 1em;
+}
+.masthead .ui.menu .ui.button {
+  margin-left: 0.5em;
+}
+.masthead h1.ui.header {
+  margin-top: 3em;
+  margin-bottom: 0em;
+  font-size: 4em;
+  font-weight: normal;
+}
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+.ui.vertical.segment {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.ui.vertical.stripe {
+  padding: 8em 0em;
+}
+.ui.vertical.stripe h3 {
+  font-size: 2em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+  margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+.ui.vertical.stripe p {
+  font-size: 1.33em;
+}
+.ui.vertical.stripe .horizontal.divider {
+  margin: 3em 0em;
+  border-color: white;
+}
+
+.footer.segment {
+  padding: 5em 0em;
+}
+
+.inverted.menu .toc.item {
+  display: none;
+}
+
+@media only screen and (max-width: 700px) {
+  .ui.fixed.menu {
+    display: none !important;
+  }
+  .inverted.menu .item,
+  .inverted.menu .menu {
+    display: none;
+  }
+  .inverted.menu .toc.item {
+    display: block;
+  }
+  .masthead.segment {
+    min-height: 350px;
+  }
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+  .masthead h2 {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+  }
+}
+
+.home {
+
+  .logo-text {
+    font-family: $brand-font-family !important;
+    font-weight: bold !important;
+    display: inline-block;
+    padding: 12px 24px;
+    background: rgba(0,0,0, .6);
+  }
+
+  .colored {
+    transition-duration: .5s;
+    &#logo-t {
+      color: $brand-red;
+    }
+    &#logo-o1 {
+      color: $brand-yellow;
+    }
+    &#logo-o2 {
+      color: $brand-green;
+    }
+    &#logo-n {
+      color: $brand-blue;
+    }
+    &#logo-s {
+      color: $brand-purple;
+    }
+  }
+
+  #logo-tagline {
+    transition-delay: .5s;
+    transition-duration: 2s;
+    opacity: 0;
+    font-weight: normal !important;
+    &.colored{
+      opacity: 1;
+    }
+  }
+
+}
+
+h3 {
+  font-family: $brand-font-family !important;
+}
+

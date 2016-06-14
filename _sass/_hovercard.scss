@@ -1,0 +1,74 @@
+.hovercard {
+  width: 100%;
+  height: 35vh;
+
+  background-size: cover;
+  border-top: 12px solid transparent;
+
+  position: relative;
+
+  overflow: hidden;
+
+  .toon {
+    width: 100%;
+    height: 100%;
+
+    opacity: 0;
+  }
+
+  &:hover {
+    cursor: pointer;
+
+    .toon {
+      opacity: 1;
+    }
+  }
+
+  .content {
+    text-transform: lowercase;
+    font-family: $brand-font-family;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+    padding: 12px 0 12px 12px;
+
+    line-height: 1em;
+    font-size: 2em;
+    background: rgba(0,0,0,.7);
+
+    width: 100%;
+
+    .details {
+      font-size: .6em;
+      font-weight: normal;
+    }
+  }
+
+  &.red {
+    border-color: $brand-red;
+  }
+
+  &.orange {
+    border-color: $brand-orange;
+  }
+
+  &.yellow {
+    border-color: $brand-yellow;
+  }
+
+  &.green {
+    border-color: $brand-green;
+  }
+
+  &.blue {
+    border-color: $brand-blue;
+  }
+
+  &.purple {
+    border-color: $brand-purple;
+  }
+
+
+}
