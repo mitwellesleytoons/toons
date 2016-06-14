@@ -42,6 +42,28 @@
       font-size: .6em;
       font-weight: normal;
     }
+
+    transition-duration: .2s;
+  }
+
+  &.extended {
+    .bio {
+      display: none;
+      font-weight: normal;
+      font-size: .5em;
+    }
+
+    &:hover {
+
+      .content {
+        bottom: 0;
+      }
+
+      .bio {
+        height: 100%;
+        display: block;
+      }
+    }
   }
 
   &.red {

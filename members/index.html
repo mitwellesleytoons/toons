@@ -20,53 +20,49 @@ layout: default
 
   {% for member in site.data.members %}
     {% if member.status == "active" %}
-      <div class="row">
         <div class="six wide mobile six wide tablet four wide computer column">
           <div
             style="background-image: url('../assets/images/members/{{member.image}}')"
-            class="hovercard {{member.color}}">
+            class="extended hovercard {{member.color}}">
             <div class="toon"
               style="background-image: url('../assets/images/toons/{{member.toon}}')">
             </div>
+            <div class="content">
+              {{ member.name }}
+              <div class="details">
+                {{member.voice}} - {{member.school}} {{member.class}}
+              </div>
+              <div class="bio">
+
+                <p>
+                  <strong>{{member.school}} {{member.class}}</strong>
+                  <br>
+                  <strong> Jingle: </strong> {{member.jingleClass}}
+                  <br>
+                  <strong> Hometown: </strong> {{member.hometown}}
+                  <br>
+                  <strong> Major: </strong> {{member.major}}
+                  <br>
+                  <strong> Voice: </strong> {{member.voice}}
+                  <br>
+                  <strong> Positions: </strong> {{member.positions}}
+                  <br>
+                  <strong> Solos: </strong> {{member.solos}}
+                  <br>
+                  <strong> Duets: </strong> {{member.duets}}
+                  <br>
+                  <strong> Arrangements: </strong> {{member.arrangements}}
+                  <br>
+                </p>
+
+                <p>
+                  {{member.bio}}
+                </p>
+
+              </div>
+            </div>
           </div>
         </div>
-        <div class="six wide mobile six wide tablet twelve wide computer column">
-
-          <h1>
-            {{member.fullname}}
-          </h1>
-
-          <div class="bio">
-
-            <p>
-              <strong>{{member.school}} {{member.class}}</strong>
-              <br>
-              <strong> Jingle: </strong> {{member.jingleClass}}
-              <br>
-              <strong> Hometown: </strong> {{member.hometown}}
-              <br>
-              <strong> Major: </strong> {{member.major}}
-              <br>
-              <strong> Voice: </strong> {{member.voice}}
-              <br>
-              <strong> Positions: </strong> {{member.positions}}
-              <br>
-              <strong> Solos: </strong> {{member.solos}}
-              <br>
-              <strong> Duets: </strong> {{member.duets}}
-              <br>
-              <strong> Arrangements: </strong> {{member.arrangements}}
-              <br>
-            </p>
-
-            <p>
-              {{member.bio}}
-            </p>
-
-          </div>
-
-        </div>
-      </div>
     {% endif %}
   {% endfor %}
 
@@ -87,53 +83,49 @@ layout: default
 
   {% for member in site.data.members %}
     {% if member.status == "alum" %}
-      <div class="row">
         <div class="six wide mobile six wide tablet four wide computer column">
           <div
             style="background-image: url('../assets/images/members/{{member.image}}')"
-            class="hovercard {{member.color}}">
+            class="extended hovercard {{member.color}}">
             <div class="toon"
               style="background-image: url('../assets/images/toons/{{member.toon}}')">
             </div>
+            <div class="content">
+              {{ member.name }}
+              <div class="details">
+                {{member.voice}} - {{member.school}} {{member.class}}
+              </div>
+              <div class="bio">
+
+                <p>
+                  <strong>{{member.school}} {{member.class}}</strong>
+                  <br>
+                  <strong> Jingle: </strong> {{member.jingleClass}}
+                  <br>
+                  <strong> Hometown: </strong> {{member.hometown}}
+                  <br>
+                  <strong> Major: </strong> {{member.major}}
+                  <br>
+                  <strong> Voice: </strong> {{member.voice}}
+                  <br>
+                  <strong> Positions: </strong> {{member.positions}}
+                  <br>
+                  <strong> Solos: </strong> {{member.solos}}
+                  <br>
+                  <strong> Duets: </strong> {{member.duets}}
+                  <br>
+                  <strong> Arrangements: </strong> {{member.arrangements}}
+                  <br>
+                </p>
+
+                <p>
+                  {{member.bio}}
+                </p>
+
+              </div>
+            </div>
           </div>
         </div>
-        <div class="six wide mobile six wide tablet twelve wide computer column">
-
-          <h1>
-            {{member.fullname}}
-          </h1>
-
-          <div class="bio">
-
-            <p>
-              <strong>{{member.school}} {{member.class}}</strong>
-              <br>
-              <strong> Jingle: </strong> {{member.jingleClass}}
-              <br>
-              <strong> Hometown: </strong> {{member.hometown}}
-              <br>
-              <strong> Major: </strong> {{member.major}}
-              <br>
-              <strong> Voice: </strong> {{member.voice}}
-              <br>
-              <strong> Positions: </strong> {{member.positions}}
-              <br>
-              <strong> Solos: </strong> {{member.solos}}
-              <br>
-              <strong> Duets: </strong> {{member.duets}}
-              <br>
-              <strong> Arrangements: </strong> {{member.arrangements}}
-              <br>
-            </p>
-
-            <p>
-              {{member.bio}}
-            </p>
-
-          </div>
-
-        </div>
-      </div>
     {% endif %}
   {% endfor %}
 </div>
