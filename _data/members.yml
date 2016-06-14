@@ -1,8 +1,21 @@
 # Example:
 # - name: Edwin
-#   status: active/alum
-#   color: red/orange/yellow/green/blue/purple
-#   image: edwinzhang16.jpg
+#   fullname: Edwin Zhang
+#   status: active
+#   school: MIT
+#   class: 2016
+#   jingleClass: 2012
+#   hometown: Long Valley, NJ
+#   major: Computer Science
+#   color: red
+#   image: edwinzhang16.jpg (This refers to assets/images/members/<filename>)
+#   toon: banana.jpg (This refers to assets/images/toons/<filename>)
+#   voice: Bass
+#   positions: President, Business Manager
+#   solos: I Want It That Way
+#   duets: N/A
+#   arrangements: N/A
+#   bio: Does stuff
 
 - name: Edwin
   fullname: Edwin Zhang
