@@ -1,32 +1,24 @@
 <header class="site-header">
 
-  <div class="ui inverted menu">
-    <a class="active item">
-      Home
+  <div class="ui large inverted menu">
+
+    <a href="/" class="item">
+      <h2>toons</h2>
     </a>
-    <a class="item">
-      About
-    </a>
-    <a class="item">
-      Repertoire
-    </a>
-    <a class="item">
-      Members
-    </a>
-    <a class="item">
+
+    {% for item in site.navigation %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+      {% endif %}
+      <a href="{{ item.url }}" class="item {{ class }}">
+          {{ item.title }}
+      </a>
+    {% endfor %}
+
+    <a href="{{site.facebook}}" class="item">
       Facebook
     </a>
-    <div class="right menu">
-      <!-- <div class="item"> -->
-        <!-- <div class="ui icon input"> -->
-          <!-- <input type="text" placeholder="Search..."> -->
-          <!-- <i class="search link icon"></i> -->
-        <!-- </div> -->
-      <!-- </div> -->
-      <!-- <a class="ui item"> -->
-        <!-- Logout -->
-      <!-- </a> -->
-    </div>
   </div>
 
 </header>

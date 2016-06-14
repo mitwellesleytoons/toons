@@ -10,11 +10,16 @@
   school: MIT
   class: 2016
   jingleClass: 2012
+  hometown: Long Valley, NJ
   major: Computer Science
   color: red
   image: edwinzhang16.jpg
   toon: banana.jpg
   voice: Bass
+  positions: President, Business Manager
+  solos: I Want It That Way
+  duets: N/A
+  arrangements: N/A
   bio: Does stuff
 
 - name: Edwin
@@ -98,7 +103,7 @@
 
 - name: Edwin
   fullname: Edwin Zhang
-  status: active
+  status: alum
   school: MIT
   class: 2016
   jingleClass: 2012

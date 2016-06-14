@@ -4,11 +4,21 @@ email: toons-request@mit.edu
 description: >
   We're a cross campus a capella group with loads of color :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://toons.mit.edu" # the base hostname & protocol for your site
 twitter_username: ToonsACappella
+youtube: http://youtube.com/MITWellesleyToons
+facebook: http://facebook.com/MITWellesleyToons
 
 collections:
 - members
 
 # Build settings
 markdown: kramdown
+
+navigation:
+  - title: About
+    url: /about/
+  - title: Members
+    url: /members/
+  - title: Repertoire
+    url: /repertoire/

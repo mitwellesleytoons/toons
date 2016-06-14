@@ -55,6 +55,7 @@ $on-laptop:        800px;
         "base",
         "layout",
         "home",
+        "members",
         "hovercard"
 ;
 
@@ -65,8 +66,19 @@ body {
   .segment {
     background: black !important;
   }
+  font-size: 1.2em;
 }
 
 h1, h2, h3, h4 {
+  font-family: $brand-font-family;
   color: white !important;
+  font-weight: bold !important;
+}
+
+.ui.divider {
+  border-color: white;
+}
+
+table.ui.fluid {
+  width: 100% !important;
 }

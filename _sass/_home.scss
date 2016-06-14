@@ -18,11 +18,12 @@
 
 @keyframes rainbow-border {
   0%     { border-color: $brand-red; }
-  20%    { border-color: $brand-orange; }
-  40%    { border-color: $brand-yellow; }
-  60%    { border-color: $brand-green; }
-  80%   { border-color: $brand-blue; }
-  100%   { border-color: $brand-purple; }
+  16%    { border-color: $brand-orange; }
+  33%    { border-color: $brand-yellow; }
+  50%    { border-color: $brand-green; }
+  66%   { border-color: $brand-blue; }
+  83%   { border-color: $brand-purple; }
+  100%   { border-color: $brand-red; }
 }
 
 .masthead .logo.item img {
@@ -60,7 +61,7 @@
   clear: both;
 }
 .ui.vertical.stripe p {
-  font-size: 1.33em;
+  font-size: 1.2em;
 }
 .ui.vertical.stripe .horizontal.divider {
   margin: 3em 0em;
@@ -83,6 +84,11 @@
   .inverted.menu .menu {
     display: none;
   }
+
+  .inverted.menu .active.item {
+    display: none;
+  }
+
   .inverted.menu .toc.item {
     display: block;
   }
