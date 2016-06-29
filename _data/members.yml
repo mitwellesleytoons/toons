@@ -17,113 +17,200 @@
 #   arrangements: N/A
 #   bio: Does stuff
 
-- name: Edwin
-  fullname: Edwin Zhang
+- name: Allan
+  fullname: Allan Ko
   status: active
   school: MIT
-  class: 2016
-  jingleClass: 2012
-  hometown: Long Valley, NJ
-  major: Computer Science
-  color: red
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  positions: President, Business Manager
-  solos: I Want It That Way
-  duets: N/A
-  arrangements: N/A
-  bio: Does stuff
+  class: 2017
+  jingleClass: 2013
+  hometown: Fremont, CA
+  major: Comparative Media Studies + AeroAstro
+  color: green
+  image: 
+  toon: Hiccup
+  voice: bass
+  positions: President
+  solos: 
+  duets: Can't Hold Us, American Boy
+  arrangements: American Boy, Everyone is Gay, Just the Girl
+  bio: 
 
-- name: Edwin
-  fullname: Edwin Zhang
+- name: Chitti
+  fullname: Chitti Desai
   status: active
-  school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
+  school: Wellesley
+  class: 2017
+  jingleClass: 2013
+  hometown: Phoenix, AZ
+  major: Economics & International Relations
   color: orange
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
+  image: 
+  toon: Kevin
+  voice: alto
+  positions: 
+  solos: Happy, Libraries, Thank You
+  duets: 
+  arrangements: 
+  bio: 
 
-- name: Edwin
-  fullname: Edwin Zhang
-  status: active
-  school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
-  color: yellow
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
-
-
-- name: Edwin
-  fullname: Edwin Zhang
-  status: active
-  school: MIT
-  class: 2016
-  jingleClass: 2012
+- name: Lucy
+  fullname: Lucy Shen
+  status: inactive
+  school: Wellesley
+  class: 2017
+  jingleClass: 2013
+  hometown: Fremont, CA
   major: Computer Science
   color: blue
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
+  image: 
+  toon: Gunter
+  voice: alto
+  positions: 
+  solos: Thank You, 1901
+  duets: 
+  arrangements: 
+  bio: 
 
-- name: Edwin
-  fullname: Edwin Zhang
+- name: Ryan
+  fullname: Ryan Chung
   status: active
   school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
-  color: purple
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
+  class: 2018
+  jingleClass: 2014
+  hometown: Terre Haute, IN
+  major: 
+  color: orange
+  image: 
+  toon: Russell
+  voice: bass
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
 
-- name: Edwin
-  fullname: Edwin Zhang
+- name: Sienna
+  fullname: Sienna Ramos
   status: active
   school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
-  color: green
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
-
-- name: Edwin
-  fullname: Edwin Zhang
-  status: active
-  school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
+  class: 2018
+  jingleClass: 2014
+  hometown: Minneapolis, MN
+  major: Electrical Engineering
   color: red
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
+  image: 
+  toon: Tigger
+  voice: alto
+  positions: 
+  solos: 1901, Youth, Every Other Freckle
+  duets: 
+  arrangements: 
+  bio: 
 
-- name: Edwin
-  fullname: Edwin Zhang
-  status: alum
+- name: Maggie
+  fullname: Margaret Lees
+  status: active
+  school: Wellesley
+  class: 2018
+  jingleClass: 2015
+  hometown: 
+  major: 
+  color: blue
+  image: 
+  toon: 
+  voice: 
+  positions: 
+  solos: 
+  duets: Herp de Derp
+  arrangements: 
+  bio: 
+
+- name: Karen
+  fullname: Karen Ni
+  status: active
+  school: Wellesley
+  class: 2018
+  jingleClass: 2014
+  hometown: 
+  major: 
+  color: blue
+  image: 
+  toon: Winnie the Pooh
+  voice: mezzo
+  positions: 
+  solos: Reflections
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Alexa
+  fullname: Alexa Riobueno-Naylor
+  status: inactive
+  school: Wellesley
+  class: 2018
+  jingleClass: 2014
+  hometown: Newton, MA
+  major: Sociology & Spanish
+  color: yellow
+  image: 
+  toon: Gumby
+  voice: mezzo
+  positions: 
+  solos: Addicted to You
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Margie
+  fullname: Margaret Manto
+  status: active
   school: MIT
-  class: 2016
-  jingleClass: 2012
-  major: Computer Science
-  color: red
-  image: edwinzhang16.jpg
-  toon: banana.jpg
-  voice: Bass
-  bio: Does stuff
+  class: 2019
+  jingleClass: 2015
+  hometown: 
+  major: 
+  color: blue
+  image: 
+  toon: 
+  voice: soprano
+  positions: 
+  solos: Just the Girl
+  duets: 
+  arrangements: 
+  bio: 
 
+- name: Avery
+  fullname: Avery Nortonsmith
+  status: active
+  school: MIT
+  class: 2019
+  jingleClass: 2015
+  hometown: Northampton, MA
+  major: 
+  color: 
+  image: 
+  toon: 
+  voice: bass
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Serena
+  fullname: Serena Xu
+  status: active
+  school: MIT
+  class: 2019
+  jingleClass: 2015
+  hometown: 
+  major: 
+  color: 
+  image: 
+  toon: 
+  voice: alto
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
