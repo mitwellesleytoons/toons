@@ -9,6 +9,8 @@ Local Development:
 jekyll serve
 ```
 
+The site can now be accessed locally at [http://localhost:4000](http://localhost:4000)
+
 ## Contributing Data
 
 Edit `_data/members.yml` for membership information, and `_data/repertoire.yml`
