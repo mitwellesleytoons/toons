@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+
+// Our variables
+$base-font-family: Lato,Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$brand-font-family: Courier New, serif;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #000000;
+$brand-color:      #000000;
+$brand-red:        red;
+$brand-orange:     orange;
+$brand-yellow:     yellow;
+$brand-green:      green;
+$brand-blue:       blue;
+$brand-purple:     purple;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "home",
+        "hovercard"
+;
+
+
+body {
+  background: black;
+  color: white;
+  .segment {
+    background: black !important;
+  }
+  font-size: 1.2em;
+}
+
+h1, h2, h3, h4 {
+  font-family: $brand-font-family;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.ui.divider {
+  border-color: white;
+}
+
+table.ui.fluid {
+  width: 100% !important;
+}
