@@ -124,6 +124,8 @@ We welcomed four more beautiful jingles and continued our unfortunate path into 
 
 Our spring concert was a reunion concert! We welcomed back alums from all of Toons history to celebrate our 25th anniversary with the concert theme ONLY NINETIES KIDS. We kicked off the night with the debut of our alum a cappella group, the OUT OF TOONS, followed by a huge, high-energy, combined performance of our Waka Waka/Waving Flag mashup. Sandwiched by ample nineties references ("welcome to good burger, home of the good burger...") we also sang two Queen classics, Somebody to Love and Under Pressure, and said farewell to Rachel McDermott, Trevor Mulchay, Sarah Garvey, and Matt Joss.
 
+![](/assets/images/about/25reunion.jpg)
+
 ## 2015-2016
 
 Fall 2015 brought us four new jingles, and we ended the semester with a tastefully edgy TOONS NOIR concert, featuring tastefully edgy covers of Every Other Freckle by alt-J, Wisely and Slow by the Staves, Nature Boy by Nat King Cole/Eden Ahbez, and...Herp de Derp by schmoyoho? Well, anyway...
