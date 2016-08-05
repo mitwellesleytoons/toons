@@ -26,7 +26,7 @@
   hometown: Fremont, CA
   major: Comparative Media Studies + AeroAstro
   color: green
-  image: 
+  image: allan.jpg
   toon: Hiccup
   voice: bass
   positions: President
@@ -44,7 +44,7 @@
   hometown: Phoenix, AZ
   major: Economics & International Relations
   color: orange
-  image: 
+  image: chitti.jpg
   toon: Kevin
   voice: alto
   positions: 
@@ -62,7 +62,7 @@
   hometown: Fremont, CA
   major: Computer Science
   color: blue
-  image: 
+  image: lucy.jpg
   toon: Gunter
   voice: alto
   positions: 
@@ -80,7 +80,7 @@
   hometown: Terre Haute, IN
   major: 
   color: orange
-  image: 
+  image: ryan.jpg
   toon: Russell
   voice: bass
   positions: 
@@ -98,7 +98,7 @@
   hometown: Minneapolis, MN
   major: Electrical Engineering
   color: red
-  image: 
+  image: sienna.jpg
   toon: Tigger
   voice: alto
   positions: 
@@ -116,7 +116,7 @@
   hometown: 
   major: 
   color: blue
-  image: 
+  image: maggie.jpg
   toon: 
   voice: 
   positions: 
@@ -134,7 +134,7 @@
   hometown: 
   major: 
   color: green
-  image: 
+  image: karen.jpg
   toon: Winnie the Pooh
   voice: mezzo
   positions: 
@@ -152,7 +152,7 @@
   hometown: Newton, MA
   major: Sociology & Spanish
   color: yellow
-  image: 
+  image: alexa.jpg
   toon: Gumby
   voice: mezzo
   positions: 
@@ -170,7 +170,7 @@
   hometown: 
   major: 
   color: blue
-  image: 
+  image: margie.jpg
   toon: 
   voice: soprano
   positions: 
@@ -187,15 +187,15 @@
   jingleClass: 2015
   hometown: Northampton, MA
   major: 
-  color: 
-  image: 
+  color: yellow
+  image: avery.jpg
   toon: 
   voice: bass
   positions: 
   solos: 
   duets: 
   arrangements: 
-  bio: 
+  bio: leet hax and weak beer
 
 - name: Serena
   fullname: Serena Xu
@@ -206,7 +206,7 @@
   hometown: 
   major: 
   color: purple
-  image: 
+  image: serena.jpg
   toon: 
   voice: alto
   positions: 

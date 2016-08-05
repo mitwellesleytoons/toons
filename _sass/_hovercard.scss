@@ -1,6 +1,9 @@
 .hovercard {
   width: 100%;
-  height: 35vh;
+  height: 300px;
+  @media only screen and (max-width: 700px) {
+    height: 500px;
+  }
 
   background-size: cover;
   border-top: 12px solid transparent;

@@ -18,7 +18,5 @@ markdown: kramdown
 navigation:
   - title: About
     url: /about/
-  - title: Members
-    url: /members/
   - title: Repertoire
     url: /repertoire/
