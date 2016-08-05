@@ -19,4 +19,25 @@
       Facebook
     </a>
   </div>
+
+  <div id="smallHeader">
+
+    <a href="/" class="item">
+      <h2>MIT / Wellesley Toons</h2>
+    </a>
+
+    {% for item in site.navigation %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+      {% endif %}
+      <a href="{{ item.url }}" class="item {{ class }}">
+          {{ item.title }}
+      </a>
+    {% endfor %}
+
+    <a href="{{site.facebook}}" class="item">
+      Facebook
+    </a>
+  </div>
 </header>

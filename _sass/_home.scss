@@ -86,7 +86,30 @@
   left: 5%;
   top: 10px;
   @media only screen and (max-width: 700px) {
-    .item {
+    display: none;
+  }
+}
+
+#smallHeader {
+  display: none;
+  padding: 10px 20px;
+   @media only screen and (max-width: 700px) {
+    display: block;
+    a {
+      display: block;
+      font-size: 30px;
+      color: #fff;
+      font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+      padding: 10px;
+      text-align: center;
+      background-color: #111;
+      margin: 3px;
+      border-radius: 3px;
+      &:first-child {
+        h2 {
+          font-size: 30px !important;
+        }
+      }
     }
   }
 }
