@@ -8,11 +8,11 @@ permalink: /about/
 
 MIT-Wellesley Toons is a cross-campus acapella group, pulling talented singers from both the Massachusetts Institute of Technology and Wellesley College communities. Founded in 1990, we have a long history of performing indie and pop alike (from alt-J to Adele), celebrating old-fashioned favorites (like Simon and Garfunkel or Boyz II Men), and occasionally indulging our taste for the playful and absurd (Double Rainbow, anyone?). We perform on and off campus for events and concerts throughout the school year, and we always enjoy being a guest group for other acapella acts. 
 
-About1.jpg
+![](/assets/images/about/About1.jpg)
 
 We rehearse two nights a week (once at MIT and once at Wellesley), for a total commitment of about 8-9 hours. We perform once or twice a month at various community events and competitions in the Greater Boston area, and we host a full concert twice a semester--one for each campus. In the past, we've sung venues ranging from Faneuil Hall to Disney World. We especially love performing with other a cappella groups; we recently sang with our friends the Wellesley Widows, the MIT Muses, the Olin Powerchords, and Haverford/Bryn Mawr Counterpoint. Don't hesitate to contact us at toons-request@mit.edu if you're an a cappella group, local or visiting--we love making new friends!
 
-About2.jpg
+![](/assets/images/about/About2.jpg)
 
 ## Can I audition to be a TOON?
 
@@ -40,7 +40,7 @@ It was this year that the target symbol which decorates the cover of our first a
 
 ## 1998–2001
 
-Secret.jpg
+![](/assets/images/about/Secret.jpg)
 
 The year 1998 brought the release of the Toons second studio album, 59th Street Bridge. Soon after this album premiered, the Toons were performing such classics as "The Mario Skit." The fall of 2000 brought seven new jingles, and brought Toons membership up to 19 for the semester. Although these delinquents did not produce a jingle skit, they did manage to create a very colorful breakfast at Fall Retreat 2000.
 
@@ -58,7 +58,7 @@ Spring 2002 saw the Toons on a tour of the East Coast. Toons drove down to Atlan
 
 ## 2002–2003
 
-All.jpg
+![](/assets/images/about/All.jpg)
 
 Fall 2002 brought three new members, and the beginning of a new recording project. Director Brooke Bryant incorporated lots of choreography into our set that semester, and created the "machine" in the Zephyr Song. She also popularized the word "jar" for generations of Toons to come. Songs that semester included "The Freshmen," "My Favorite Mistake," and "Adia." Skits included the Email Skit featuring Strongbad, and the Lord of the Rings/8 Mile skit that displayed the rapping ability of Charles and Gautam. Fall 2002 also began the true Microphone Era, which was propogated by the generous alum gift that Spring of a set of microphones :).
 
@@ -66,7 +66,7 @@ Spring 2003 began with goodbyes from several long time Toons: Charles Floyd, Gau
 
 ## 2003–2004
 
-Cartoonheroes.jpg
+![](/assets/images/about/Cartoonheroes.jpg)
 
 Fall 2003 brought a ton of new jingles! This semester Neelima, the newly elected director, took Toons to the Big Blends Concert in Maine, among other fun road trips. The Toons had (have) a particular knack for getting the worst possible rental cars this semester but it always turned into a laugh and a good time by the end of the trip. This fall concert was marked with awesome Toons costumes and the Aqua hit (arranged by Claire Gross) "Cartoon Heroes".
 
@@ -78,7 +78,7 @@ Soon, our recent alums will reminisce about their years in the Toons and leave t
 
 ## 2009–2010
 
-PimpShip.jpg
+![](/assets/images/about/PimpShip.jpg)
 
 Fall 2009 brought some awesome jingles! This semester we had some great hits such as Knock You Down with our freakin awesome Pimp Ship, the greatest choreo of all time, and Obsessed with You, which showed the world how crazy the Toons actually were. This semester introduced the new Jingles to “Toons Moments.” The best moment of the time was moment wood pecker, which would be remembered forever. The semester ended with the dramatic Glee themed concert in which we had wonderful props and costumes. We somehow managed to even acquire a wheel chair. This was one of the first skits that told a continuous story throughout the skits, and started an era of epic stories to be told.
 
@@ -86,7 +86,7 @@ Spring 2010 was the Toons 20th Anniversary Concert. A wonderful group of about 1
 
 ## 2010–2011
 
-Toonsontour.jpg
+![](/assets/images/about/Toonsontour.jpg)
 
 Fall 2010 brought a huge and wonderful jingle class of 9 Jingles! The best part about this Jingle class was how much they loved each other and Toons as soon as they became Toons. The remaining five Elders, and the current Jingle class would go on to become closer than Toons has ever been; they became family. The Toons sung great songs like Double Rainbow by the Gregory Brothers which included Donald hilariously ripping off his “Tooniform” to reveal a bright yellow Double Rainbow t-shirt underneath. During retreat this semester, the Toons visited the Ben and Jerry’s factory in Vermont, and proceeded to sing for everyone that we met. The semester skits were about what happens when the Most Interesting Man in the World (Tom Hu) and the Man Your Man Could Smell Like (Donald Guy) team up to battle then world’s least manliest “man”, Justin Bieber! [Justin grudgingly played by 8-Ball Reyes. Bieber link? No. I only link to awesome.] This skit beautifully ended with Donald Guy accidentally exposing his bare chest to Wellesley in the middle of a song instead of revealing the Double Rainbow t-shirt, but forgot to put it on because he was too distracted by the amazing Jingle skit, the wild Barbershop Quartet seen in its natural habitat.
 
@@ -94,7 +94,7 @@ Spring semester that year, the Toons went on an awesome tour to Disney World, an
 
 ## 2011–2012
 
-Prom.jpg
+![](/assets/images/about/Prom.jpg)
 
 Fall 2011 brought the Toons a fresh new wave of Jingles! This semester had some awesome songs such as Kids by MGMT and the Christina Grimmie and Sam Tsui version of Just A Dream. The retreat that fall is remembered for about half the group devouring a Vermonster on the ground at the parking lot in front of Ben and Jerry's. The group finished the semester off with Wikipedia: The Concert! The concert script was immortalized by an employee of Wikipedia who attended the concert. The original script can be found at: http://en.wikipedia.org/w/index.php?title=User:Sj/WPtC&oldid=463913478.
 
@@ -102,7 +102,7 @@ That spring was kicked off with a teaser concert at Wellesley entitled Awkward P
 
 ## 2012–2013
 
-Colors.jpg
+![](/assets/images/about/Colors.jpg)
 
 The Toons started this semester with an awesome retreat when, while hiking, a bunch of Toons stripped down and jumped off of a ledge into a pool in a river below ... IN NOVEMBER! There were no towels to dry off with so the group had to use the warmth of their Toons Love to stay warm before heading back to the house. The group sang great songs such as Some Nights by fun. and the World Cup Mashup (Waka Waka and Wavin' Flag)! This semester's teaser concert was one where the characters consisted of each Toon's cartoon character. I'm sure the audience was extremely confused, but all the Toons wanted was to have fun! The theme of the semester concert was Avada Capella where the characters were inspired by Harry Potter as well as a Very Potter Musical. The Jingle skit this semester was a very memorable one because of Dana Gretton's "Spoilers Rap".
 
@@ -114,7 +114,7 @@ We welcomed four new jingles this year and kicked off the fall semester with a r
 
 Our fall concert theme was Toons Go Camping, which featured an actual gorilla suit, as well as a narrated mockumentary. Live on film, we caught the wild thesis in its natural environment, attacking our beleaguered seniors. The jingles sang a four-chord mashup song with ukelele accompaniment instead of preparing a real skit, but everyone loved it anyway. Finally, we sang goodbye to our beloved Zach Casas, and closed the concert by breaking the record for "most toons in a tent."
 
-Tent.jpg
+![](/assets/images/about/Tent.jpg)
 
 Spring 2014 brought our famous "TV DINNER" concert, which featured Trevor Mulchay microwaving and eating an authentic TV dinner live on stage while playing Flappy Bird. We ventured into rap with a rendition of Macklemore's "Can't Hold Us" (featuring shark-related choreography) and sang a choral piece about the perils of big data with "Hymn of Acxiom." Finally, we said tearful goodbyes to seniors Esther Jang, Sruthi Narayanan, Cheetiri Smith, and Lauren Richmond.
 
