@@ -53,23 +53,23 @@
   arrangements: 
   bio: 
 
-- name: Lucy
-  fullname: Lucy Shen
-  status: inactive
-  school: Wellesley
-  class: 2017
-  jingleClass: 2013
-  hometown: Fremont, CA
-  major: Computer Science
-  color: blue
-  image: lucy.jpg
-  toon: Gunter
-  voice: alto
-  positions: 
-  solos: Thank You, 1901
-  duets: 
-  arrangements: 
-  bio: 
+# - name: Lucy
+#   fullname: Lucy Shen
+#   status: inactive
+#   school: Wellesley
+#   class: 2017
+#   jingleClass: 2013
+#   hometown: Fremont, CA
+#   major: Computer Science
+#   color: blue
+#   image: lucy.jpg
+#   toon: Gunter
+#   voice: alto
+#   positions: 
+#   solos: Thank You, 1901
+#   duets: 
+#   arrangements: 
+#   bio: 
 
 - name: Ryan
   fullname: Ryan Chung
@@ -117,7 +117,7 @@
   major: 
   color: blue
   image: maggie.jpg
-  toon: 
+  toon: Ariel
   voice: 
   positions: 
   solos: 
@@ -125,41 +125,41 @@
   arrangements: 
   bio: 
 
-- name: Karen
-  fullname: Karen Ni
-  status: active
-  school: Wellesley
-  class: 2018
-  jingleClass: 2014
-  hometown: 
-  major: 
-  color: green
-  image: karen.jpg
-  toon: Winnie the Pooh
-  voice: mezzo
-  positions: 
-  solos: Reflections
-  duets: 
-  arrangements: 
-  bio: 
+# - name: Karen
+#   fullname: Karen Ni
+#   status: active
+#   school: Wellesley
+#   class: 2018
+#   jingleClass: 2014
+#   hometown: 
+#   major: 
+#   color: green
+#   image: karen.jpg
+#   toon: Winnie the Pooh
+#   voice: mezzo
+#   positions: 
+#   solos: Reflections
+#   duets: 
+#   arrangements: 
+#   bio: 
 
-- name: Alexa
-  fullname: Alexa Riobueno-Naylor
-  status: inactive
-  school: Wellesley
-  class: 2018
-  jingleClass: 2014
-  hometown: Newton, MA
-  major: Sociology & Spanish
-  color: yellow
-  image: alexa.jpg
-  toon: Gumby
-  voice: mezzo
-  positions: 
-  solos: Addicted to You, Quit Pulling Me Down
-  duets: 
-  arrangements: 
-  bio: 
+# - name: Alexa
+#   fullname: Alexa Riobueno-Naylor
+#   status: inactive
+#   school: Wellesley
+#   class: 2018
+#   jingleClass: 2014
+#   hometown: Newton, MA
+#   major: Sociology & Spanish
+#   color: yellow
+#   image: alexa.jpg
+#   toon: Gumby
+#   voice: mezzo
+#   positions: 
+#   solos: Addicted to You, Quit Pulling Me Down
+#   duets: 
+#   arrangements: 
+#   bio: 
 
 - name: Margie
   fullname: Margaret Manto
@@ -189,7 +189,7 @@
   major: 
   color: yellow
   image: avery.jpg
-  toon: 
+  toon: Hobbes
   voice: bass
   positions: 
   solos: 
@@ -207,7 +207,7 @@
   major: 
   color: purple
   image: serena.jpg
-  toon: 
+  toon: Calvin
   voice: alto
   positions: 
   solos: 
