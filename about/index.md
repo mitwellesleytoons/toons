@@ -6,13 +6,11 @@ permalink: /about/
 
 ## Who are these crazy TOONS I hear all about?
 
-MIT-Wellesley Toons is a cross-campus acapella group, pulling talented singers from both the Massachusetts Institute of Technology and Wellesley College communities. Founded in 1990, we have a long history of performing indie and pop alike (from alt-J to Adele), celebrating old-fashioned favorites (like Simon and Garfunkel or Boyz II Men), and occasionally indulging our taste for the playful and absurd (Double Rainbow, anyone?). We perform on and off campus for events and concerts throughout the school year, and we always enjoy being a guest group for other acapella acts. 
+MIT-Wellesley Toons is a cross-campus acapella group, pulling talented singers from both the Massachusetts Institute of Technology and Wellesley College communities. Founded in 1990, we have a long history of performing indie and pop alike (from alt-J to Adele), celebrating old-fashioned favorites (like Simon and Garfunkel or Boyz II Men), and occasionally indulging our taste for the playful, absurd, and herp-de-derpy (Double Rainbow, anyone?). 
 
 ![](/assets/images/about/25reunion.jpg)
 
 We rehearse two nights a week (once at MIT and once at Wellesley), for a total commitment of about 8-9 hours. We perform once or twice a month at various community events and competitions in the Greater Boston area, and we host a full concert twice a semester--one for each campus. In the past, we've sung venues ranging from Faneuil Hall to Disney World. We especially love performing with other a cappella groups; we recently sang with our friends the Wellesley Widows, the MIT Muses, the Olin Powerchords, and Haverford/Bryn Mawr Counterpoint. Don't hesitate to contact us at toons-request@mit.edu if you're an a cappella group, local or visiting--we love making new friends!
-
-![](/assets/images/about/About2.jpg)
 
 ## Can I audition to be a TOON?
 
@@ -129,6 +127,8 @@ Our spring concert was a reunion concert! We welcomed back alums from all of Too
 
 Fall 2015 brought us four new jingles, and we ended the semester with a tastefully edgy TOONS NOIR concert, featuring tastefully edgy covers of Every Other Freckle by alt-J, Wisely and Slow by the Staves, Nature Boy by Nat King Cole/Eden Ahbez, and...Herp de Derp by schmoyoho? Well, anyway...
 
-![](/assets/images/about/About1.jpg)
+![](/assets/images/about/toonsnoir.jpg)
 
 Spring 2016 started off with an overnight trip to Smith College's Silver Chord Bowl competition in Northampton, where we were graciously hosted by the Nortonsmith family. We also had the pleasure of making some new friends with another cross-campus a cappella group: Counterpoint A Cappella, from Bryn Mawr and Haverford! After some singing in Lobby 7 we went to Unos together, ate way too much pizza, and then wandered around Harvard Square for the rest of the night. At the end of the semester, we channeled our inner philosophers to conjure up our spring concert theme, TOONS HAS A DEEP THOUGHT, and said farewell to Dana Gretton, Merry Mou, Jyotishka Biswas, and Edwin Zhang.
+
+![](/assets/images/about/counterpoint.jpg)
