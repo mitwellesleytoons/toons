@@ -125,10 +125,10 @@ Our spring concert was a reunion concert! We welcomed back alums from all of Too
 
 ## 2015-2016
 
-Fall 2015 brought us four new jingles, and we ended the semester with a tastefully edgy TOONS NOIR concert, featuring tastefully edgy covers of Every Other Freckle by alt-J, Wisely and Slow by the Staves, Nature Boy by Nat King Cole/Eden Ahbez, and...Herp de Derp by schmoyoho? Well, anyway...
+Fall 2015 brought us five wonderful jingles: Max, Margie, Maggie, Serena, and Avery! We ended the semester with a tastefully edgy TOONS NOIR concert, featuring tastefully edgy covers of Every Other Freckle by alt-J, Wisely and Slow by the Staves, Nature Boy by Nat King Cole/Eden Ahbez, and...Herp de Derp by schmoyoho? Well, anyway...
 
 ![](/assets/images/about/toonsnoir.jpg)
 
-Spring 2016 started off with an overnight trip to Smith College's Silver Chord Bowl competition in Northampton, where we were graciously hosted by the Nortonsmith family. We also had the pleasure of making some new friends with another cross-campus a cappella group: Counterpoint A Cappella, from Bryn Mawr and Haverford! After some singing in Lobby 7 we went to Unos together, ate way too much pizza, and then wandered around Harvard Square for the rest of the night. At the end of the semester, we channeled our inner philosophers to conjure up our spring concert theme, TOONS HAS A DEEP THOUGHT, and said farewell to Dana Gretton, Merry Mou, Jyotishka Biswas, and Edwin Zhang.
+Unfortunately Max decided to leave us after the fall semester, and we miss him very very much. Spring 2016 started off with an overnight trip to Smith College's Silver Chord Bowl competition in Northampton, where we were graciously hosted by the Nortonsmith family. We also had the pleasure of making some new friends with another cross-campus a cappella group: Counterpoint A Cappella, from Bryn Mawr and Haverford! After some singing in Lobby 7 we went to Unos together, ate way too much pizza, and then wandered around Harvard Square for the rest of the night. At the end of the semester, we channeled our inner philosophers to conjure up our spring concert theme, TOONS HAS A DEEP THOUGHT, and said farewell to Dana Gretton, Merry Mou, Jyotishka Biswas, and Edwin Zhang.
 
 ![](/assets/images/about/counterpoint.jpg)
