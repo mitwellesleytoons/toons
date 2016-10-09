@@ -214,3 +214,75 @@
   duets: 
   arrangements: 
   bio: 
+
+- name: Lauren
+  fullname: Lauren Luo
+  status: active
+  school: Wellesley
+  class: 2020
+  jingleClass: 2016
+  hometown: 
+  major: 
+  color: blue
+  image: lauren.jpg
+  toon: 
+  voice: alto
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Makiko
+  fullname: Makiko Miyazaki
+  status: active
+  school: Wellesley
+  class: 2020
+  jingleClass: 2016
+  hometown: 
+  major: 
+  color: red
+  image: makiko.jpg
+  toon: 
+  voice: soprano
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Mayla
+  fullname: Mayla Thompston
+  status: active
+  school: Wellesley
+  class: 2019
+  jingleClass: 2016
+  hometown: 
+  major: 
+  color: green
+  image: mayla.jpg
+  toon: 
+  voice: soprano
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
+
+- name: Tiffany
+  fullname: Tiffany Sharma
+  status: active
+  school: Wellesley
+  class: 2019
+  jingleClass: 2016
+  hometown: 
+  major: 
+  color: purple
+  image: tiffany.jpg
+  toon: 
+  voice: soprano
+  positions: 
+  solos: 
+  duets: 
+  arrangements: 
+  bio: 
