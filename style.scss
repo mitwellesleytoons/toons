@@ -1,0 +1,117 @@
+body, html {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #111;
+	color: #ddd;
+}
+
+#top-image {
+    width: 100%;
+    height: 800px;
+    background-image: url("images/home-0.jpeg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    box-shadow: 0px 2px 6px #040404;
+    #image-cover {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(13, 10, 21, 0.3);
+    }
+}
+
+header {
+    font-size: 0px;
+    padding: 8px 0px;
+    a {
+        text-decoration: none;
+    }
+    .top-link {
+        font-size: 16px;
+        font-family: sans-serif;
+        padding: 18px 26px;
+        text-align: center;
+        display: inline-block;
+        cursor: pointer;
+        transition: background-color 300ms;
+        text-decoration: none;
+        color: #ddd;
+        border-radius: 2px;
+        &:hover {
+            background-color: #343434;
+        }
+        &.mobile {
+            font-size: 16px;
+            display: block;
+        }
+    }
+    #toons {
+        font-weight: bold;
+    }
+}
+
+.section {
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    line-height: 50px;
+}
+
+#content {
+    margin-top: 800px;
+    width: 100%;
+    font-family: sans-serif;
+    line-height: 24px;
+    letter-spacing: 1px;
+    .info {
+        margin-top: 10px;
+        padding: 0px 15px;
+    }
+
+    #image-div {
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 400px;
+        margin-top: 25px;
+        box-shadow: 0px 2px 6px #040404;
+    }
+}
+
+#members {
+    margin: 40px 0px;
+    font-family: sans-serif;
+    line-height: 24px;
+    letter-spacing: 1px;
+
+    .member {
+        padding: 16px;
+        .member-image {
+            position: relative;
+            height: 400px;
+            background-size: cover;
+            background-position: center;
+            box-shadow: 0px 2px 6px #040404;
+            width: 100%;
+        }
+        .name {
+            position: absolute;
+            width: 100%;
+            background-color: rgba(17, 16, 16, 0.64);
+            bottom: 0px;
+            padding: 10px;
+        }
+    }
+}
+
+.history {
+    text-align: justify;
+    img {
+        width: 70%;
+        margin: 0% 15%;
+        box-shadow: 0px 2px 6px #040404;
+    }
+}
